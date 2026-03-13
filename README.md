@@ -7,4 +7,4 @@ My goal for evolking theme and enhancing immersion with my textures was try and 
 These textures evoke the theme of a peaceful neighborhood but in the near future, with the walls being more technical. When starting the textures, I wanted to do something that was time travel so I wnated to do a futuristic time to make the player feel that they went forward.
 ### Guidence and Orientation
 The goal for my textures that guide and orient the players was to put indicators on the outside of the walls where the players would come in that area with different indicators so that players would have an easier time navigating and know which rooms had which indicator.
-
+![Screenshot 2026-03-13 153301](https://github.com/user-attachments/assets/d4e13b2d-2107-4630-9e9a-7c19917fcbc1)
