@@ -8,3 +8,4 @@ These textures evoke the theme of a peaceful neighborhood but in the near future
 ### Guidence and Orientation
 The goal for my textures that guide and orient the players was to put indicators on the outside of the walls where the players would come in that area with different indicators so that players would have an easier time navigating and know which rooms had which indicator.
 ![Screenshot 2026-03-13 153301](https://github.com/user-attachments/assets/d4e13b2d-2107-4630-9e9a-7c19917fcbc1)
+This guides and orients the player because the arcade has a different tecturing for the entrance that the player will reconize and easy to keep track,
