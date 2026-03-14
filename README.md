@@ -15,3 +15,5 @@ This guides and orients the player because the arcade has a different tecturing 
 For the lighting, I wanted to caputre a similar idea with the textures and use it as a sunlight beaming down to make the player feel calm and collective, and have different lighting effects like flickering lights to evoke a creepy and causious immersion.
 <img width="667" height="817" alt="Screenshot 2026-03-14 121529" src="https://github.com/user-attachments/assets/3d344252-8dd5-4950-82d2-9a92655f162a" />
 The lighting enhances the area by attracting the players to the grenadelaugher with the room being slight dimmer and the grenadelaugher by the brightest in the room to give players a feeling of curiousity. I used a spotlight to shine on the grenadelaugnher to atrack players, letting the weapon be center stage.
+### Guidence and Orientation
+My goal for guidence and orientation with lighting was have the bigger room be to brightest and have the smaller room be slightly less bright to have players remember where the bigger rooms are and smaller rooms are.
