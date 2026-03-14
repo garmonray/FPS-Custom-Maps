@@ -17,3 +17,6 @@ For the lighting, I wanted to caputre a similar idea with the textures and use i
 The lighting enhances the area by attracting the players to the grenadelaugher with the room being slight dimmer and the grenadelaugher by the brightest in the room to give players a feeling of curiousity. I used a spotlight to shine on the grenadelaugnher to atrack players, letting the weapon be center stage.
 ### Guidence and Orientation
 My goal for guidence and orientation with lighting was have the bigger room be to brightest and have the smaller room be slightly less bright to have players remember where the bigger rooms are and smaller rooms are.
+<img width="1911" height="988" alt="Screenshot 2026-03-14 122212" src="https://github.com/user-attachments/assets/999e4276-0a92-41d9-aaa3-691ad12f7986" />
+
+<img width="1919" height="997" alt="Screenshot 2026-03-14 122254" src="https://github.com/user-attachments/assets/39868806-8802-4379-9bf2-ec6ab4841720" />
