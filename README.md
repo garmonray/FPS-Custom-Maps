@@ -22,3 +22,4 @@ My goal for guidence and orientation with lighting was have the bigger room be t
 In the sketepark area, the room is very big and open so I deciede to make the room very bright while also adding some flickering lights to make it much easier, and the arcade is smaller in comparison so I decided to make the room still bright but not as bright as the sketepark to have players keep track of which is brighter and which isn't. The images also demonstrate one of John Romeros rule of cramp and open spaces by having the arcade be the cramp space and having the sketepark be more open. 
 
 My recent release can be found in the releases section of the repository. Here's the link to the release: https://github.com/garmonray/FPS-Custom-Maps/releases
+<img width="1911" height="1003" alt="Screenshot 2026-03-28 151441" src="https://github.com/user-attachments/assets/fa4e7e24-991c-4139-a9c5-3083f4ce8d2f" />
